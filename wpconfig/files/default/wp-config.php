@@ -16,8 +16,8 @@
 
 define('WP_REDIS_HOST', 'wordpress.ko4vrx.0001.usw2.cache.amazonaws.com');
  
-define('WP_HOME','wordpress-1380670774.us-west-2.elb.amazonaws.com');
-define('WP_SITEURL','wordpress-1380670774.us-west-2.elb.amazonaws.com');
+define('WP_HOME','dxosh0x5bgptt.cloudfront.net');
+define('WP_SITEURL','dxosh0x5bgptt.cloudfront.net');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
